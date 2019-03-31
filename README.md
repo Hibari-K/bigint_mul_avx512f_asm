@@ -2,7 +2,8 @@
 Multiply with AVX-512F in inline assembly
 
 ## NOTE
-This repository is _BETA_ version of bigint_mul_avx512f. Thus these programs are not so efficient.
+This repository is _BETA_ version of bigint_mul_avx512f. Thus these programs are not so efficient.  
+"mul_kernel.c" is a multiplication kernel written in inline assembly.
 
 ## Dependencies
 - The processors that can execute AVX-512F instructions
